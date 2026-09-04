@@ -27,5 +27,15 @@ Reinforcement Learning (RL) is a branch of Machine Learning where an agent learn
 
 ---
 
+# Reinforcement Learning ( By Google DeepMind )
 
+- 1: Introduction to Reinforcement Learning
+- https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
+
+<img width="2276" height="1326" alt="image" src="https://github.com/user-attachments/assets/4d645288-2d93-4830-9498-cb110556108d" />
+
+<img width="2326" height="1342" alt="image" src="https://github.com/user-attachments/assets/497f7b1b-cc3e-44b3-9958-de9cc90b3393" />
+
+
+---
 
